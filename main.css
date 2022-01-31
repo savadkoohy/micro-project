@@ -8,4 +8,5 @@ form fieldset {
     flex-direction: column;
     width: 100px;
     height: 220px;
+    background-color: #eac705;
 }
