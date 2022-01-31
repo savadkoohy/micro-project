@@ -3,6 +3,9 @@
   background-color : #084810;
 }
 
+h2 {
+    color : #ff6a00;
+}
 form fieldset {
     display: flex;
     flex-direction: column;
